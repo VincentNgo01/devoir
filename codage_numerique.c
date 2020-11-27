@@ -3,3 +3,5 @@
 //
 
 #include "codage_numerique.h"
+
+vvvvvvvvvvvvvvvvvvvvv
